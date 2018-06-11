@@ -68,7 +68,7 @@
         "displayName": "Hosting Plan",
         "usage": "Hosting",
         "category": "Hosting",
-        "owner": "[parameters('owner')]"
+        "owner": "[parameters('owner')]"   
       },
       "sku": {
         "name": "[parameters('skuName')]",
